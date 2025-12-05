@@ -1,0 +1,24 @@
+int main (){
+
+letra em L;
+
+char Letra 'L';
+
+printf (l = 1;l <= 4; l++ );
+
+for (j = 1; j <= 8; j++ );
+
+do (r = 1; r <= inf; r++ );
+
+while (t = 1; t <= 16; t++ );
+
+printf ("/n");
+
+(se r , t , j , l tem numeros iguais!)
+ }else {
+
+printf (Letra r , t , j l tem o mesmo numero de movimentos );
+
+Return 0 
+
+Resultado : ao todo tem 102.400 movimentos por segundo no jogo de xadrez ok 
